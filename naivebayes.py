@@ -113,8 +113,6 @@ print("Negative class : "+str(test_neg))
 
 if(test_pos>test_neg):
     print("Review is positive")
-elif(test_pos<test_neg):
-    print("Review is negative")
 else:
     print("Review is neutral")
 
