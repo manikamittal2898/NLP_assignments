@@ -8,4 +8,4 @@
 
 
 <b>Assignment 3</b>: Blog Buddy: Text Analyzer for Blog drafts
-</br>Files: tagger.ipynb, keybert.ipynb, draft1.txt, articles_nlp.csv
+</br>Files: tagger.ipynb, text_analyzer.ipynb, draft1.txt, articles_nlp.csv, bubble.txt, w2v.pkl
